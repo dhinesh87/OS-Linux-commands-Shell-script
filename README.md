@@ -1,5 +1,7 @@
 # OS-Linux-commands-Shell-scripting
-Operating systems Lab exercise
+EX 01 Operating systems Lab exercise
+## Name: Dhinesh M
+## Register No: 212223040040
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
